@@ -4,7 +4,8 @@
   <img alt="Midjourney Styles and Keywords Reference" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Banner/banner_light.png?raw=true">
 </picture><br><br>
 
-<blockquote><h6>DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.</h6></blockquote>
+<blockquote><h6>DISCLAMER 1: Eu não sou oficialmente ligado ao projeto do MidJourney. Sou apenas um usuario da plataforma e serviço.</h6></blockquote>
+<blockquote><h6>DISCLAMER 2: Todo o material publicado esta sendo traduzido para facilitar o entendimento para novos usuários brasileiros.</h6></blockquote>
 
 
 
