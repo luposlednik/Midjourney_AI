@@ -87,7 +87,7 @@
 
 <div align="center">
 
-<h3><pre>Comparison Pages</pre></h3>
+<h3><pre>Paginas de comparação</pre></h3>
 
 <table><tr><td width=410 align="center" valign="top">
 <picture>
