@@ -248,7 +248,7 @@
 
 <div align="center">
 
-  <h3><pre>Styles</pre></h3>
+  <h3><pre>Estilos</pre></h3>
 
 <br>
 
